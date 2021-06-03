@@ -253,7 +253,7 @@ module.exports = {
     onlyAllowOrigins: [
       'https://example.com',
       'https://staging.example.com',
-      'https://desolate-harbor-19733.herokuapp.com/'
+      'https://desolate-harbor-19733.herokuapp.com'
     ],
 
 
