@@ -5,21 +5,9 @@ module.exports = {
   description: "Save report from replied email",
 
   inputs: {
-    From: {
+    nama: {
       type: "string",
       description: "where email is come from",
-    },
-    To: {
-      type: "string",
-      description: "where email will be send",
-    },
-    Subject: {
-      type: "string",
-      description: "subject of the email",
-    },
-    "stripped-text": {
-      type: "ref",
-      description: "email content",
     },
   },
 
